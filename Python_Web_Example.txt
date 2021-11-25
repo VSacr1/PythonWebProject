@@ -6,3 +6,4 @@ There will be a front end, a back end and a database.
 
 I have demonstrated an example of conflict
 
+More changes for branch example
