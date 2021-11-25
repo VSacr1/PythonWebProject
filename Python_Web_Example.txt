@@ -2,4 +2,7 @@ This is where the code will go for the python website.
 
 The code will be in Python. 
 
-This is an example of a commit conflict. 
+There will be a front end, a back end and a database. 
+
+I have demonstrated an example of conflict
+
